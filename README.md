@@ -22,6 +22,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 ![Remote](remote.jpg)
 
 ![Remote](remote-front.jpg)
+The SSD1306 OLED is epoxied to the pcb using plasticmstandoffs UV light epoxy. 
 
 ![Remote](remote-back.jpg)
 
