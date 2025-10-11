@@ -1,14 +1,14 @@
 # A Motorized Remote Controlled Clothesline Antenna for the HAM HF Bands 
 ![Figure 3](./images/ClothslineLayout.png)
 
-The basic layout of the clothsline antenna is shown in figure 3 above. Basically you move the feedpoint to match the antenna to the transceiver rather than using a anntena tuner at the transceiver to match the tranceiver to the antenna. However, I've made a few changes such as using 450 Ohm ladder line to the shack instead of the 300 Ohm twinleed. Also, I'm using a 1:4 balbal in combination with a 1:1 current balun (50 Ohm input) instead of the 6:1 balun shown. These transformers are built according to instructions from TRX Lab videos on Youtube and work very well. I'll be using 75 Ohm coax to the 1:1 and 1:4 transformers from my Kenwood TS-520 and TS-820 tranceivers. The TS-520/820's manual notes that it can effectively transfer power with an antenna system that results in an input impedance between 15 and 200 ohms.
+The basic layout of the clothsline antenna is shown in figure 3 above. Basically you move the feedpoint to match the antenna to the transceiver rather than trying to match the tranceiver to the antenna. I've made a few changes such as using 450 Ohm ladder line to the shack instead of the 300 Ohm twinleed. I'm using a 1:4 balbal in combination with a 1:1 current balun instead of the 6:1 balun shown. These transformers are built according to instructions from TRX Lab videos on Youtube and work very well. I'll be using short runs of 75 Ohm coax from my Kenwood TS-520 and TS-820 tranceivers. The TS-520/820's manual notes that it can effectively transfer power with an antenna system that results in an input impedance between 15 and 200 ohms.
 
 ### Remote an Motor Control
-The remote and motor control use ESP NodeMCU 1.0 ESP-8266 dev modules. The motor control uses a DIY rotary encoder built from a PCB 120mm diameter disk with 36 apertures,  and 12V 45 RPM gear motor from the Surplus Center. The Surplus Center has about 780 of these gear motors still in stock for $9.95 each as of October 2025.
+The remote and motor control use NodeMCU 1.0 ESP-8266 dev modules. The motor control uses a DIY rotary encoder using a PCB 120mm diameter disk with 36 apertures, a pair of photo interruptors,  and a 12V 45 RPM gear motor which I found at the Surplus Center. The Surplus Center has about 780 of these gear motors still in stock for $9.95 each as of October 2025.
 
 You'll also need silicon covered #12 AWG wire with a high strand count which gives it its fkexability. Mine is about 4.5mm in diameter and has about 100 strands. I don't have a source for the wire as I bought 300 feet of of this wire from a vendor on Aliexpress about five years ago.
 
-The zip file contains all the information and files needed to build a clothesline antenna. There are Arduino sketches, KiCAD (V9.x) PCB layout files for the boards and rotor disk. This includes the Gerber zip files in the production folders for sending to a board maker. I use JLPCB to make mine.
+The zip file contains all the information and files needed to build a clothesline antenna. There are Arduino sketches, KiCAD (V9.x) PCB layout files for the boards and rotor disk. This includes the Gerber zip files in the production folders for sending to a PCB board maker. I use JLPCB to make mine.
 
 https://www.kicad.org
 
