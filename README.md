@@ -8,7 +8,7 @@ The remote and motor control use NodeMCU 1.0 ESP-8266 dev modules. The motor con
 
 You'll also need silicon covered #12 AWG wire with a high strand count which gives it its flexability. Mine is about 4.5mm in diameter and has about 100 strands. I don't have a source for the wire as I bought 300 feet of of this wire from a vendor on Aliexpress about five years ago.
 
-The zip file contains all the information and files needed to build a clothesline antenna. There are Arduino sketches, KiCAD (V9.x) PCB layout files for the boards and rotor disk. This includes the Gerber zip files in the production folders for sending to a PCB board maker. I used JLPCB to make mine.
+The zip file contains all the information and files needed to build a clothesline antenna. There are Arduino sketches, KiCAD (V9.x) PCB layout files for the boards and rotor disk. This includes the Gerber zip files in the production folders for sending to a PCB board maker. I used JLPCB to make mine as there's a KiCAD pcbnew plugin for JLPCB fabrication. 
 
 https://www.kicad.org
 
