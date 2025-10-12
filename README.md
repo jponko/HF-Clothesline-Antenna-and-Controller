@@ -34,6 +34,8 @@ The SSD1306 OLED is epoxied to the pcb using plastic standoffs UV light activate
 
 ![MotorControl](mc-front.jpg)
 
+Front (antenna exit) side
+
 ![MotorControl](mc-back.jpg)
 
 Back of rotary encoder housing showing the encoder disk mounted to the drive pully with 20mm nylon standoffs. The pinch roller guides are from an old VCR. The opening will get a plastic cover.
