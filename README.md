@@ -30,7 +30,7 @@ The SSD1306 OLED is epoxied to the pcb using plastic standoffs UV light activate
 
 #### Motor Control with Rotary Encoder
 ![MotorControl](encoder.jpg)
-
+The TCST2103-photo interrupters used as a quadrature encoder.
 ![MotorControl](mc-cover.jpg)
 
 ![MotorControl](mc-front.jpg)
