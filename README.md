@@ -24,7 +24,7 @@ Front panel is 80mm x 65mm (3.14" x 2.56")
 
 ![Remote](remote-front.jpg)
 
-The SSD1306 OLED is epoxied to the pcb using plastic standoffs UV light activated epoxy. 
+The SSD1306 OLED is held in place using plastic standoffs that are epoxied to the pcb. 
 
 ![Remote](remote-back.jpg)
 
@@ -45,7 +45,7 @@ Back of rotary encoder housing showing the encoder disk mounted to the drive pul
 
 ![MotorControl](mc-side.jpg)
 
-The gear motor sticks out of the case but is waterproofed  with a pill bottle.
+The gear motor sticks out of the case but is waterproofed with a pill bottle.
 The two waterproof limit switches are shown in the foreground. They will be mounted on the front. Disks on the wire will activate the switches to stop the
 gearmotor.
 
