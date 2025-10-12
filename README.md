@@ -22,11 +22,11 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 ![Remote](remote.jpg)
 
 ![Remote](remote-front.jpg)
-The SSD1306 OLED is epoxied to the pcb using plasticmstandoffs UV light epoxy. 
+The SSD1306 OLED is epoxied to the pcb using plastic standoffs UV light activated epoxy. 
 
 ![Remote](remote-back.jpg)
 
-#### Motor Control and Rotary Encoder
+#### Motor Control with Rotary Encoder
 ![MotorControl](encoder.jpg)
 
 ![MotorControl](mc-cover.jpg)
@@ -35,7 +35,7 @@ The SSD1306 OLED is epoxied to the pcb using plasticmstandoffs UV light epoxy.
 
 ![MotorControl](mc-back.jpg)
 
-Back of rotary encoder housing showing the encoder disk mounted to the drive pully with nylon standoffs. The roller guides are from an old VCR. The opening will get a plastic cover.
+Back of rotary encoder housing showing the encoder disk mounted to the drive pully with 20mm nylon standoffs. The pinch roller guides are from an old VCR. The opening will get a plastic cover.
 
 ![MotorControl](mc-side.jpg)
 
