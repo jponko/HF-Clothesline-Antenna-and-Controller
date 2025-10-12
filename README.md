@@ -34,7 +34,7 @@ The SSD1306 OLED is epoxied to the pcb using plastic standoffs UV light activate
 
 ![MotorControl](mc-front.jpg)
 
-Front (antenna exit) side
+Front (antenna exit) side. Copper tubing is used as rollers on 1/4 inch SS carriage bolts. 
 
 ![MotorControl](mc-back.jpg)
 
