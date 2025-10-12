@@ -20,6 +20,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 
 #### Remote
 ![Remote](remote.jpg)
+Front panel is 80mm x 65mm (3.14" x 2.56")
 
 ![Remote](remote-front.jpg)
 
