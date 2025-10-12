@@ -31,7 +31,7 @@ The SSD1306 OLED is held in place using plastic standoffs that are epoxied to th
 #### Motor Control with Rotary Encoder
 ![MotorControl](encoder.jpg)
 
-The TCST2103-photo interrupters detectors used as a quadrature position encoder. The detector PCB is mounted using an L-bracket.
+The TCST2103-photo interrupter detectors used as a quadrature position encoder. The detector PCB is mounted using an L-bracket.
 
 ![MotorControl](mc-cover.jpg)
 
@@ -45,7 +45,6 @@ Back of rotary encoder housing showing the encoder disk mounted to the drive pul
 
 ![MotorControl](mc-side.jpg)
 
-The gear motor sticks out of the case but is waterproofed with a pill bottle.
-The two waterproof limit switches are shown in the foreground. They will be mounted on the front. Disks on the wire will activate the switches to stop the
-gearmotor.
+The gear motor sticks out of the case but is waterproofed with a pill bottle. Next to the pill bottle are the adjustment slots for positioning the photo interrupter detectors.
+The two waterproof limit switches are shown in the foreground. They will be mounted on the front. Disks on the antenna wire will activate the switches to stop the gearmotor or detect the home position.
 
