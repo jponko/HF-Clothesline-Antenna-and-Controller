@@ -21,7 +21,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 <p></p>
 <p></p>
 
-<p align="center">__________________<ins>Photos</ins>__________________</p>
+<p align="center"><ins>############### Photos ###############</ins></p>
 
 
 
