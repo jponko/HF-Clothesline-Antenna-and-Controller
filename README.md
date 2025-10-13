@@ -25,7 +25,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 <hr>
 
 
-#### Remote:
+### Remote:
 ![Remote](remote.jpg)
 Front panel is made from a PCB. 80mm x 65mm (3.14" x 2.56")
 
@@ -35,7 +35,7 @@ The SSD1306 OLED is held in place using plastic standoffs that are epoxied to th
 
 ![Remote](remote-back.jpg)
 
-#### Motor Control with Rotary Encoder:
+### Motor Control with Rotary Encoder:
 ![MotorControl](encoder.jpg)
 
 The TCST2103-photo interrupter detectors used as a quadrature position encoder. The detector PCB is mounted using an L-bracket.
