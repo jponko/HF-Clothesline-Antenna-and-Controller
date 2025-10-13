@@ -17,10 +17,9 @@ You'll also need some type of box to mount the rotary encoder/NodeMCU in and fee
 The remote control uses a low power 5v supply. Barrel jacks are used on both devices.
 
 I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on how it actually performs will be comming soon. In the meantime, here are some photos of the remote control and motor control.
-<hr><hr><hr>
-
-<p align="center"><ins>############### Photos ###############</ins></p>
-
+<hr>
+<p align="center"><ins><h1>Photos</h1> Photos</ins></p>
+<hr>
 
 
 #### Remote:
