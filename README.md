@@ -18,7 +18,8 @@ The remote control uses a low power 5v supply. Barrel jacks are used on both dev
 
 I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on how it actually performs will be comming soon. In the meantime, here are some photos of the remote control and motor control.
 <hr>
-<h2><p align="center">[Photos]</p></h2>
+<font color="#008000">
+<h2><p align="center">Photos</p></h2>
 <hr>
 
 
