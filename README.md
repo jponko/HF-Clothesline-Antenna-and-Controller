@@ -23,6 +23,9 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 </font>
 <hr>
 
+<font size="6" face="white" color="green">
+  GeeksforGeeks!
+</font>
 
 #### Remote:
 ![Remote](remote.jpg)
