@@ -20,6 +20,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 <hr>
 <font color="#008000">
 <h2><p align="center">Photos</p></h2>
+</font>
 <hr>
 
 
