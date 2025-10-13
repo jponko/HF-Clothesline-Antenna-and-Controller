@@ -18,7 +18,7 @@ The remote control uses a low power 5v supply. Barrel jacks are used on both dev
 
 I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on how it actually performs will be comming soon. In the meantime, here are some photos of the remote control and motor control.
 
-### <u>Photos</u>
+<u>Photos</u>
 #### Remote:
 ![Remote](remote.jpg)
 Front panel is made from a PCB. 80mm x 65mm (3.14" x 2.56")
