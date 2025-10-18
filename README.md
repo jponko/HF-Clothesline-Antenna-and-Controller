@@ -37,6 +37,9 @@ The SSD1306 OLED is held in place using plastic standoffs that are epoxied to th
 <hr>
 
 ![Remote](remote-back.jpg)
+
+Remote back side.
+
 <hr>
 
 ### Motor Control with Rotary Encoder:
