@@ -33,25 +33,32 @@ Front panel is made from a PCB. 80mm x 65mm (3.14" x 2.56")
 
 The SSD1306 OLED is held in place using plastic standoffs that are epoxied to the pcb. 
 <hr>
+
 ![Remote](remote-back.jpg)
 <hr>
 ### Motor Control with Rotary Encoder:
+
 ![MotorControl](encoder.jpg)
 
 The TCST2103-photo interrupter detectors used as a quadrature position encoder. The detector PCB is mounted using an L-bracket.
 <hr>
+
 ![MotorControl](mc-cover.jpg)
 <hr>
+
 ![MotorControl](mc-front.jpg)
 <hr>
+
 Front (antenna exit) side. Copper tubing is used as rollers on 1/4 inch SS carriage bolts. 
 
 ![MotorControl](mc-back.jpg)
 <hr>
+
 Back of rotary encoder housing showing the encoder disk mounted to the drive pully with 20mm nylon standoffs. The white mark on the pully is there so I can count the revolutions per band. The pinch rollers are from an old VCR. The opening will get a plastic cover.
 
 ![MotorControl](mc-side.jpg)
 <hr>
+
 The gear motor sticks out of the case but is waterproofed with a pill bottle. Next to the pill bottle are the adjustment slots for positioning the photo interrupter detectors.
 The two waterproof limit switches are shown in the foreground. They will be mounted on the front. Disks on the antenna wire will activate the switches to stop the gearmotor if it goes too far or to signal when the home position is reached.
 
