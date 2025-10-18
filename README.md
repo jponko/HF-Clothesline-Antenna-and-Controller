@@ -59,7 +59,7 @@ Front (antenna exit) side. Copper tubing is used as rollers on 1/4 inch SS carri
 
 ![MotorControl](mc-back.jpg)
 
-Back of rotary encoder housing showing the encoder disk mounted to the drive pully with 20mm nylon standoffs. The white mark on the pully is there so I can count the revolutions per band. The pinch rollers are from an old VCR. The opening will get a plastic cover.
+Back of rotary encoder housing showing the encoder disk mounted to the drive pulley with 20mm nylon standoffs. The white mark on the pulley is there so I can count the revolutions per band. The pinch rollers are from an old VCR. The opening will get a plastic cover.
 <hr>
 
 ![MotorControl](mc-side.jpg)
