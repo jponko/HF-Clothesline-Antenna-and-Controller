@@ -29,6 +29,7 @@ I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on
 ![Remote](remote.jpg)
 Front panel is made from a PCB. 80mm x 65mm (3.14" x 2.56")
 <hr>
+
 ![Remote](remote-front.jpg)
 
 The SSD1306 OLED is held in place using plastic standoffs that are epoxied to the pcb. 
