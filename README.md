@@ -53,9 +53,9 @@ The TCST2103-photo interrupter detectors used as a quadrature position encoder. 
 <hr>
 
 ![MotorControl](mc-front.jpg)
-<hr>
 
 Front (antenna exit) side. Copper tubing is used as rollers on 1/4 inch SS carriage bolts. 
+<hr>
 
 ![MotorControl](mc-back.jpg)
 <hr>
