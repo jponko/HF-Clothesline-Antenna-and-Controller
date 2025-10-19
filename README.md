@@ -71,5 +71,5 @@ The two waterproof limit switches are shown in the foreground. They will be moun
 
 ![MotorControl](limit-switches.jpg)
 
-The limit switches mounted to a 8.2" (208mm) long by 1"x1" (25.4mm x 25.4mm piece of aluminun stock. I also added two more roller guides. The rails along the side are for mounting to the house. The other end of the antenna goes to a pulley on a flag pole. 
+The limit switches are mounted to a 8.2" (208mm) long by 1"x1" (25.4mm x 25.4mm) piece of aluminun stock. I also added two more roller guides. The rails along the side are for mounting to the house. The other end of the antenna goes to a pulley on a flag pole. 
 <hr>
