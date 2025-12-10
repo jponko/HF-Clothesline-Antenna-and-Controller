@@ -1,5 +1,5 @@
 # A Motorized Remote Controlled Clothesline Antenna for the HAM HF Bands 
-![Figure 3](./images/ClothslineLayout.png)
+![Figure 3](ClothslineLayout.png)
 
 The basic layout of the clothsline antenna is shown in figure 3 above. Basically you move the feedpoint to match the antenna to the transceiver rather than using a anntena tuner to match the tranceiver to the antenna. However, I've made a few changes such as using 450 Ohm ladder line to the shack instead of the 300 Ohm twinleed. Also, I'm using a 1:4 balbal (50 to 200 Ohm output) in combination with a 1:1 current balun (50 Ohm input) instead of the 6:1 balun shown. These transformers are built according to instructions from TRX Lab videos on Youtube and work very well. I'll be using 75 Ohm coax to the 1:1 and 1:4 transformers from my Kenwood TS-520 and TS-820 tranceivers. The TS-520/820's manual notes that it can effectively transfer power with an antenna system that results in an input impedance between 15 and 200 ohms.
 
