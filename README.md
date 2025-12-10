@@ -19,24 +19,24 @@ The remote control uses a low power 5v supply. Barrel jacks are used on both dev
 I'll be putting the antenna up this fall on a 40 foot flag pole. So more info on how it actually performs will be comming soon. In the meantime, here are some photos of the remote control and motor control.
 
 #### Remote
-![Remote](./images/remote.jpg)
+![Remote](remote.jpg)
 
-![Remote](./images/remote-front.jpg)
+![Remote](remote-front.jpg)
 
-![Remote](./images/remote-back.jpg)
+![Remote](remote-back.jpg)
 
 #### Motor Control and Rotary Encoder
-![MotorControl](./images/encoder.jpg)
+![MotorControl](encoder.jpg)
 
-![MotorControl](./images/mc-cover.jpg)
+![MotorControl](mc-cover.jpg)
 
-![MotorControl](./images/mc-front.jpg)
+![MotorControl](mc-front.jpg)
 
-![MotorControl](./images/mc-back.jpg)
+![MotorControl](mc-back.jpg)
 
 The roller guides are from an old VCR. The opening will get a plastic cover.
 
-![MotorControl](./images/mc-side.jpg)
+![MotorControl](mc-side.jpg)
 
 The gear motor sticks out of the case but is waterproofed  with a pill bottle.
 The two waterproof limit switches are shown in the foreground. They will be mounted on the front. Small cylinders on the wire will activate the switches to stop the
